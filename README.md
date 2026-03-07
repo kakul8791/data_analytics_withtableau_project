@@ -1,3 +1,6 @@
+# Strategic Product Placement Analysis: Unveiling Sales Impact with Tableau Visualization
+
+## Problem Statement
 The objective of this project is to analyze how product positioning affects sales performance. The project studies factors such as product category, price, competitor pricing, promotion strategies, and store foot traffic to understand their impact on sales volume. Tableau is used to visualize the dataset and identify patterns influencing product sales.
 
 ## Data Collection
