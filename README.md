@@ -46,6 +46,15 @@ The following visualizations were created in Tableau:
 ## Dashboard
 A Tableau dashboard was created by combining all visualizations into a single interface for better analysis and comparison.
 
+## Web Integration
+The Tableau dashboard is embedded into a Flask web application using HTML and Python.
+
+## Technologies Used
+- Tableau
+- Python
+- Flask
+- HTML
+
 ## Insights
 - Product positioning significantly affects sales performance.
 - Promotional strategies increase customer engagement.
